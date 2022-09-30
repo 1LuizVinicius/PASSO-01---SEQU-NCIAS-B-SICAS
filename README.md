@@ -1,2 +1,2 @@
-# PASSO-01---SEQU-NCIAS-B-SICAS
+# PASSO-01-SEQUENCIAS-BASICAS
 Programação em python
